@@ -21,4 +21,3 @@ for i in range(int(math.pow(10,nod-1)),int(math.pow(10,nod))):
     if Special(i):
         print(i)
 
-
